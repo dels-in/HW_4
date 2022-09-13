@@ -1,0 +1,15 @@
+/Users/vlad/RiderProjects/OTUS/HW_4/obj/Debug/net6.0/HW_4.csproj.AssemblyReference.cache
+/Users/vlad/RiderProjects/OTUS/HW_4/obj/Debug/net6.0/HW_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vlad/RiderProjects/OTUS/HW_4/obj/Debug/net6.0/HW_4.AssemblyInfoInputs.cache
+/Users/vlad/RiderProjects/OTUS/HW_4/obj/Debug/net6.0/HW_4.AssemblyInfo.cs
+/Users/vlad/RiderProjects/OTUS/HW_4/obj/Debug/net6.0/HW_4.csproj.CoreCompileInputs.cache
+/Users/vlad/RiderProjects/OTUS/HW_4/bin/Debug/net6.0/HW_4
+/Users/vlad/RiderProjects/OTUS/HW_4/bin/Debug/net6.0/HW_4.deps.json
+/Users/vlad/RiderProjects/OTUS/HW_4/bin/Debug/net6.0/HW_4.runtimeconfig.json
+/Users/vlad/RiderProjects/OTUS/HW_4/bin/Debug/net6.0/HW_4.dll
+/Users/vlad/RiderProjects/OTUS/HW_4/bin/Debug/net6.0/HW_4.pdb
+/Users/vlad/RiderProjects/OTUS/HW_4/obj/Debug/net6.0/HW_4.dll
+/Users/vlad/RiderProjects/OTUS/HW_4/obj/Debug/net6.0/refint/HW_4.dll
+/Users/vlad/RiderProjects/OTUS/HW_4/obj/Debug/net6.0/HW_4.pdb
+/Users/vlad/RiderProjects/OTUS/HW_4/obj/Debug/net6.0/HW_4.genruntimeconfig.cache
+/Users/vlad/RiderProjects/OTUS/HW_4/obj/Debug/net6.0/ref/HW_4.dll
